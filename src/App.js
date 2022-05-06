@@ -7,8 +7,8 @@ function App() {
   return (
    <div >
     <Nav />
-    <Sidebar />
     <Table />
+    <Sidebar />
    
    </div>
   );
